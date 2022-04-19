@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-<img src="svg/bggit.svg" width="1200" alt="click to see resource">
+<img src="svg/bggit.svg" width="1200" alt="click to see resource"/>
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
