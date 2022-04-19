@@ -1,6 +1,6 @@
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
 <img src="svg/bggit.svg" width="1200" alt="click to see resource"/>
-</a>
+</a> -->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
